@@ -9,3 +9,5 @@ Projeto Avaliaçã Técnica .Net
 ### AutoMapper
 ### Swagger UI 
 ### Repository Pattern
+
+*A base de dados se encontra na pasta sql
